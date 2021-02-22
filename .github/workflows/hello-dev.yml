@@ -6,7 +6,7 @@ on:
       - develop
 
 env:
-  PROJECT_ID: cryptic-spanner-262011
+  PROJECT_ID: ci-cd-artisan
   BRANCH_NAME: develop
   RUN_REGION: asia-southeast1
   SERVICE_NAME: hello-friend
